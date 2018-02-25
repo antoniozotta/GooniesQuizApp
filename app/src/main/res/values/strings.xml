@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="logo">Goonies Logo</string>
+
+    <string name ="question1">Q1. In which year was The Goonies produced?</string>
+    <string name ="question1answer1">1980</string>
+    <string name ="question1answer2">1983</string>
+    <string name ="question1answer3">1985</string>
+
+    <string name ="question2">Q2. Which scenes aren\'t in the final release?</string>
+    <string name ="question2answer1">The one with the giant spider</string>
+    <string name ="question2answer2">The one with the Octopus</string>
+    <string name ="question2answer3">The one with one eyed Willy</string>
+
+    <string name ="question3">Q3. Who directed the film?</string>
+    <string name ="question3answer1">Martin Scorsese</string>
+    <string name ="question3answer2">Richard Donner</string>
+    <string name ="question3answer3">Steven Spielberg</string>
+
+    <string name ="question4">Q4. Which character would you ask for a comb?</string>
+    <string name ="question4answer1">Chunk</string>
+    <string name ="question4answer2">Sloth</string>
+    <string name ="question4answer3">Mouth</string>
+
+    <string name ="question5">Q5. Which Chocolate bar do Sloth and Chunk enjoy together?</string>
+    <string name ="question5answer1">Baby Ruth</string>
+    <string name ="question5answer2">Baby Anne</string>
+    <string name ="question5answer3">Baby Chunk</string>
+
+    <string name ="question6">Q6. When is \"Goonies Day\"?</string>
+    <string name ="question6answer1">June 7th</string>
+    <string name ="question6answer2">June 9th</string>
+    <string name ="question6answer3">November 29th</string>
+
+    <string name="submit">Submit answers</string>
+
+    <string name="mouth">Enter their name here</string>
+</resources>

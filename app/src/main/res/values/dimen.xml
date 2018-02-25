@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardMargin">12dp</dimen>
+    <dimen name="cardRadius">4dp</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+    <dimen name="largeMargin">30dp</dimen>
+    <dimen name="logoHeight">129dp</dimen>
+    <dimen name="stdPadding">16dp</dimen>
+    <dimen name="stdTextSize">18sp</dimen>
+    <dimen name="smallTextSize">16sp</dimen>
+    <dimen name="smallMargin">8dp</dimen>
+    <dimen name="smallPadding">10dp</dimen>
+</resources>
